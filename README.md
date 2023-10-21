@@ -8,6 +8,9 @@ Why?
 
 If you need full binaries which are robust, up to date, and tested, look elsewhere.
 Here are a few links to point you in that direction:
+
 Windows:
+
 https://github.com/BtbN/FFmpeg-Builds/releases
+
 GyanDev [link broken temporarily]
