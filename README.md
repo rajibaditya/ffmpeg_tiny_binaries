@@ -13,8 +13,17 @@ Windows:<br>
 
 https://github.com/BtbN/FFmpeg-Builds/releases<br>
 
+https://github.com/GyanD/codexffmpeg <br>
 GyanDev [link broken temporarily]<br>
 
 <br>
 Linux:<br>
 https://johnvansickle.com/ffmpeg/<br>
+<br>
+<br>
+
+Apple: <br>
+https://evermeet.cx/ffmpeg/<br>
+
+If you want to compile your own ffmpeg binaries, check out these resources: <br>
+https://github.com/rdp/ffmpeg-windows-build-helpers <br>
